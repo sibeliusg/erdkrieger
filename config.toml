@@ -1,4 +1,4 @@
 baseURL = 'https://sibeliusg.github.io'
 languageCode = 'de-de'
 title = 'Erdenkrieger'
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
