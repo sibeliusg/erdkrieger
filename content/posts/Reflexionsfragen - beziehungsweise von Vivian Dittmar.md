@@ -1,9 +1,8 @@
 ---
-title: "Reflexionsfrage"
-date: 2022-01-18T22:23:50+01:00
-draft: true
----
+title: Reflexionsfrage
+date: 2022-01-18T22:23:50.000+01:00
 
+---
 # Reflexionsfragen - beziehungsweise von Vivian Dittmar
 
 ## REFLEXIONSFRAGEN
